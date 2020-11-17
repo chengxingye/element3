@@ -8,8 +8,6 @@
 export default {
   name: 'ElHeader',
 
-  componentName: 'ElHeader',
-
   props: {
     height: {
       type: String,
